@@ -1,2 +1,2 @@
 # mini_project.
-creat
+crea
