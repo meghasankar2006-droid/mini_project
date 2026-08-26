@@ -1,5 +1,5 @@
 {
-  "cleanUrls": t,
+  "cleanUrls": tr,
   "rewrites": [
     {
       "source": "/(.*)",
